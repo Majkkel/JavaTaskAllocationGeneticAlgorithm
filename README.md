@@ -29,8 +29,8 @@ A Java program implementing a genetic algorithm to solve the task scheduling pro
     
 7. ## How to Run
 
-1. Compile the program using the `javac Main.java` command.
-2. Run the program using the `java Main` command.
+- Compile the program using the `javac Main.java` command.
+- Run the program using the `java Main` command.
 
 7. ## Genetic Algorithm Parameters
 
